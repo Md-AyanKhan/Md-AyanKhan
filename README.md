@@ -37,6 +37,6 @@ I’m a passionate developer who enjoys building responsive, user-friendly web a
 ### 🤝 Connect With Me
 
 - GitHub: [Md-AyanKhan](https://github.com/Md-AyanKhan)
-- LinkedIn: Add your LinkedIn profile URL here
+- LinkedIn: [Mohammad-Ayan-khan](https://www.linkedin.com/in/mohammad-ayan-khan3)
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories.*
